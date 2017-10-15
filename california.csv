@@ -1,5 +1,5 @@
 Name,Location,Type,Address,Description
-Alcatraz Island,"San Francisco, CA",None,"Alcatraz Island
+Alcatraz Island,None,None,"Alcatraz Island
 Golden Gate National Recreation Area
 B201 Fort Mason, CA 94123","
 Alcatraz Island offers a close-up look at the site of the first lighthouse and US built fort on the West Coast, the infamous federal penitentiary long off-limits to the public, and the history making 18 month occupation by Indians of All Tribes. Rich in history, there is also a natural side to the Rock—gardens, tide pools, bird colonies, and bay views beyond compare.
@@ -16,7 +16,7 @@ Castle Mountains,"Barstow, CA",National Monument,"Castle Mountains National Monu
 2701 Barstow Road, CA 92311","
 Castle Mountains represents some of the most unique elements of the Mojave Desert. Nestled between the Nevada state line and Mojave National Preserve, the nearly 21,000 acres of Castle Mountains boasts Joshua tree forests, unbroken natural landscapes, rare desert grasslands, and rich human history. This intriguing area provides serenity and solitude from nearby metropolitan areas.
 "
-César E. Chávez,,National Monument,"PO Box 201, CA 93531","
+César E. Chávez,None,None,"PO Box 201, CA 93531","
 Yes, we can!
 Widely recognized as the most important Latino leader in the United States during the twentieth century, César E. Chávez led farm workers and supporters in the establishment of the country's first permanent agricultural union. His leadership brought sustained international attention to the plight of U.S. farm workers, and secured for them higher wages and safer working conditions
 "
@@ -90,7 +90,7 @@ It is hard to believe that young men once rode horses to carry mail from Missour
 Port Chicago Naval Magazine,"Concord Naval Weapons Station, CA",National Memorial,"4202 Alhambra Ave, CA 94553","
 On the evening of July 17, 1944, residents in the San Francisco east bay area were jolted awake by a massive explosion that cracked windows and lit up the night sky. At Port Chicago Naval Magazine, 320 men were instantly killed when two ships being loaded with ammunition for the Pacific theater troops blew up. It was WWII's worst home front disaster.
 "
-Presidio of San Francisco,"San Francisco, CA",None,"Fort Mason, Bldg. 201, CA 94123","
+Presidio of San Francisco,None,None,"Fort Mason, Bldg. 201, CA 94123","
 For 218 years, the Presidio served as an army post for three nations. World and local events, from military campaigns to World Fairs and earthquakes, left their mark. Come enjoy the history and the natural beauty of the Presidio. Explore centuries of architecture. Reflect in a national cemetery. Walk along an historic airfield, through forests or to beaches, and admire spectacular vistas.
 "
 Redwood,"Del Norte & Humboldt counties , CA",National and State Parks,"1111 Second Street, CA 95531","
@@ -108,7 +108,7 @@ Hidden in plain sight from Los Angeles, the Santa Monica Mountains offer easy ac
 Sequoia & Kings Canyon,"In the southern Sierra Nevada in Tulare and Fresno counties, CA",National Parks,"47050 Generals Highway, CA 93271","
 This dramatic landscape testifies to nature's size, beauty, and diversity--huge mountains, rugged foothills, deep canyons, vast caverns, and the world's largest trees. These two parks lie side by side in the southern Sierra Nevada east of the San Joaquin Valley. Weather varies a lot by season and elevation, which ranges from 1,370' to 14,494'.
 "
-Tule Lake Unit,"Tulelake, CA",None,"P.O. Box 1240, CA 96134","
+Tule Lake Unit,None,None,"P.O. Box 1240, CA 96134","
 The Tule Lake Unit, WWII Valor in the Pacific National Monument includes both the the Tule Lake Segregation Center, the largest and most controversial of the sites where Japanese Americans were incarcerated during World War II, and Camp Tulelake, which was first a Civilian Conservation Corps camp, then an additional facility to detain Japanese Americans, and finally a prisoner of war camp.
 "
 Whiskeytown,"Whiskeytown, CA",National Recreation Area,"P.O. Box 188, CA 96095","
