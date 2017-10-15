@@ -303,8 +303,8 @@ with open('california.csv', 'w') as csvfile:
 
     writer.writeheader()
     for c in california_natl_sites:
-        if c.type == "":
-            writer.writerow({'Name': c.name, 'Location': c.location,
+        if c.type == "" or c.location == "":
+            writer.writerow({'Name': c.name, 'Location': 'None',
                          'Type': 'None', 'Address': c.get_mailing_address(),
                          'Description': c.description})
         else:
